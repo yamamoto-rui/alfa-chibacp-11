@@ -243,7 +243,7 @@ button {
 }
 
 .bg-color--subcolor {
-  background-color: #d9e021;
+  background-color: #d9e02100;
 }
 
 .bg-color--gray {
@@ -316,7 +316,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #fff;
+  background-color: #fced22;
   height: 2.6px;
   width: 190px;
 }
