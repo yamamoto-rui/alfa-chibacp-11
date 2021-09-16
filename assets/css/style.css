@@ -239,7 +239,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #39b54a;
+  background-color: #e6e6e6;
 }
 
 .bg-color--subcolor {
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #fb9c63;
   margin: 0 -20px 20px -20px;
 }
 
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #39b54a;
+  background-color: #fb9c63;
 }
 
 .section-title--story {
@@ -336,7 +336,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #fb9c63;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
